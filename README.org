@@ -1,5 +1,13 @@
 #+TITLE: README
 
+Some implementations of common data structures and algorithms using the C programming language.
+
+Mostly for (my own) educational purposes :D
+
+* Algorithms
+  - Quicksort
+  - Binary Search
+
 * Data Structures
   - TODO: Linked List
   - TODO: Doubly Linked List
