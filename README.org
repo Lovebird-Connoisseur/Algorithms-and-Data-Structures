@@ -1,0 +1,10 @@
+#+TITLE: README
+
+* Data Structures
+  - TODO: Linked List
+  - TODO: Doubly Linked List
+  - TODO: Stack
+  - TODO: Queue
+  - TODO: Hashmap
+  - TODO: Binary Tree
+  - TODO: Balanced Binary Tree
